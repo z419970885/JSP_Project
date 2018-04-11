@@ -21,6 +21,6 @@
 <p align="center">专业：<input name="major"></p>
 <p align="center"><button type="submit">提交信息</button></p>
 </form>
-<p>测试数据</p>
+<a>手动阀手动阀</a>
 </body>
 </html>
