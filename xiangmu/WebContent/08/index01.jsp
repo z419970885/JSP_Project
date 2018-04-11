@@ -21,6 +21,6 @@
 <p align="center">专业：<input name="major"></p>
 <p align="center"><button type="submit">提交信息</button></p>
 </form>
-<span>测试数据</span>
+
 </body>
 </html>
